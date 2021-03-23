@@ -1,3 +1,4 @@
+// Copyright 2021 Golovanov
 
 TEST(PostfixTest, test4) {
     std::string postf = infix2postfix(inf);
