@@ -1,4 +1,4 @@
-﻿//  Copyright 2021 Golovanov
+//  Copyright  2021  Golovanov
 
 #include "postfix.h"
 #include "MyStack.h"
